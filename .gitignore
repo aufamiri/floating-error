@@ -1,0 +1,10 @@
+node_modules/**/*
+.expo/*
+npm-debug.*
+.vscode/*
+.history/*
+*.jks
+*.p12
+*.key
+*.mobileprovision
+*.lock
